@@ -45,5 +45,7 @@ testem.log
 .DS_Store
 Thumbs.db
 
+jspm_packages
+
 # Serverless directories
 .serverless
